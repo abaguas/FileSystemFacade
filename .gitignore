@@ -1,0 +1,6 @@
+CVS/
+*.out
+*.class
+*.jar
+.*.swp
+*~
