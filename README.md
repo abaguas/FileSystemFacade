@@ -1,11 +1,10 @@
-File System Manager in Java
+# File System Manager in Java
 
 Course of Object Programming, 2nd Year, 1st Semester
 
 Description in "enunciado-po-201410012150.pdf"(portuguese)
 
-Instructions to run the application:
-
+##Instructions to run the application:
 
 ->cd project
 
