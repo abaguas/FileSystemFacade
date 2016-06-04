@@ -1,4 +1,4 @@
-# File System Manager in Java
+# File System Façade in Java
 
 Course of Object Programming, 2nd Year, 1st Semester
 
